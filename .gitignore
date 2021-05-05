@@ -1,0 +1,14 @@
+.vscode
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+node_modules/
+.vscode
+/packages/**/dist/
+lerna-debug.log
+yarn-error.log
